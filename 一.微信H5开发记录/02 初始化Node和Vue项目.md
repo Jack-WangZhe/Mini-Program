@@ -28,4 +28,17 @@
 #### 4.Vue创建项目方式
 
 * 命令行创建: `vue create pay_share`
-* GUI创建:`vue ui`
+* GUI创建:`vue ui`，使用GUI只能**管理**Vue3.0之后的项目
+  * 可以通过GUI创建项目
+  * 终止项目
+  * 安装项目插件
+  * 查看项目的运行依赖和开发依赖
+  * 项目配置查看
+  * 项目任务查看（可以运行、build、lint等等）
+* 安装如下插件
+  * axios@0.18.0
+  * vue-axios@2.1.4
+  * vue-cookie@1.1.4
+  * vue-router@3.0.2
+  * weixin-js-sdk@1.3.2
+
